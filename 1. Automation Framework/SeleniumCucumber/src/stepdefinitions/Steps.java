@@ -10,11 +10,12 @@ public class Steps{
 	//initialize webdriver
 	public static WebDriver driver = new ChromeDriver();
 	
-	@Given("^I open Chrome brower and open careers page$")
-	public void i_open_Chrome_brower_and_open_careers_page() throws Throwable{		
+	@Given("^I open Chrome browser and open careers page$")
+	public void i_open_Chrome_browser_and_open_careers_page() throws Throwable {
 		//calls method to invoke browser and open url method
-		invokeBrowserOpenURL();
+				invokeBrowserOpenURL();
 	}
+	
 
 	@Then("^I check the header of the webpage$")
 	public void i_check_the_header_of_the_webpage() throws Throwable{		
@@ -33,11 +34,6 @@ public class Steps{
 		//calls method to begin checking items in body
 		checkCareersFooter();		
 	}
-	
-	
-	
-	
-	
 	
 	///////////////////////////////INTERNAL METHOD DECLARATIONS////////////////////
 	
