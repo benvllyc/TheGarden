@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="features"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/testng-7.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/cucumber-testng-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/base64-2.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/junit-jupiter-api-5.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/gherkin-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/cucumber-picocontainer-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/cucumber-junit-4.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/up371.WEWARDS/OneDrive/OneDrive - Wewards/Desktop/cucumberJARs/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,11 @@
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\EncapsulationSnippet\bin\Debug\netcoreapp3.0\EncapsulationSnippet.exe
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\EncapsulationSnippet\bin\Debug\netcoreapp3.0\EncapsulationSnippet.deps.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\EncapsulationSnippet\bin\Debug\netcoreapp3.0\EncapsulationSnippet.runtimeconfig.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\EncapsulationSnippet\bin\Debug\netcoreapp3.0\EncapsulationSnippet.runtimeconfig.dev.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\EncapsulationSnippet\bin\Debug\netcoreapp3.0\EncapsulationSnippet.dll
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\EncapsulationSnippet\bin\Debug\netcoreapp3.0\EncapsulationSnippet.pdb
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\EncapsulationSnippet\obj\Debug\netcoreapp3.0\EncapsulationSnippet.csprojAssemblyReference.cache
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\EncapsulationSnippet\obj\Debug\netcoreapp3.0\EncapsulationSnippet.AssemblyInfoInputs.cache
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\EncapsulationSnippet\obj\Debug\netcoreapp3.0\EncapsulationSnippet.AssemblyInfo.cs
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\EncapsulationSnippet\obj\Debug\netcoreapp3.0\EncapsulationSnippet.dll
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\EncapsulationSnippet\obj\Debug\netcoreapp3.0\EncapsulationSnippet.pdb

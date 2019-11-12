@@ -1,0 +1,11 @@
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\PolymorphismSnippet\bin\Debug\netcoreapp3.0\PolymorphismSnippet.exe
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\PolymorphismSnippet\bin\Debug\netcoreapp3.0\PolymorphismSnippet.deps.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\PolymorphismSnippet\bin\Debug\netcoreapp3.0\PolymorphismSnippet.runtimeconfig.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\PolymorphismSnippet\bin\Debug\netcoreapp3.0\PolymorphismSnippet.runtimeconfig.dev.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\PolymorphismSnippet\bin\Debug\netcoreapp3.0\PolymorphismSnippet.dll
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\PolymorphismSnippet\bin\Debug\netcoreapp3.0\PolymorphismSnippet.pdb
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\PolymorphismSnippet\obj\Debug\netcoreapp3.0\PolymorphismSnippet.csprojAssemblyReference.cache
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\PolymorphismSnippet\obj\Debug\netcoreapp3.0\PolymorphismSnippet.AssemblyInfoInputs.cache
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\PolymorphismSnippet\obj\Debug\netcoreapp3.0\PolymorphismSnippet.AssemblyInfo.cs
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\PolymorphismSnippet\obj\Debug\netcoreapp3.0\PolymorphismSnippet.dll
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\PolymorphismSnippet\obj\Debug\netcoreapp3.0\PolymorphismSnippet.pdb

@@ -1,0 +1,22 @@
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\LowerToUpperChallenge\bin\Debug\netcoreapp3.0\LowerToUpperChallenge.exe
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\LowerToUpperChallenge\bin\Debug\netcoreapp3.0\LowerToUpperChallenge.deps.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\LowerToUpperChallenge\bin\Debug\netcoreapp3.0\LowerToUpperChallenge.runtimeconfig.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\LowerToUpperChallenge\bin\Debug\netcoreapp3.0\LowerToUpperChallenge.runtimeconfig.dev.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\LowerToUpperChallenge\bin\Debug\netcoreapp3.0\LowerToUpperChallenge.dll
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\LowerToUpperChallenge\bin\Debug\netcoreapp3.0\LowerToUpperChallenge.pdb
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\LowerToUpperChallenge\obj\Debug\netcoreapp3.0\LowerToUpperChallenge.AssemblyInfoInputs.cache
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\LowerToUpperChallenge\obj\Debug\netcoreapp3.0\LowerToUpperChallenge.AssemblyInfo.cs
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\LowerToUpperChallenge\obj\Debug\netcoreapp3.0\LowerToUpperChallenge.dll
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\LowerToUpperChallenge\obj\Debug\netcoreapp3.0\LowerToUpperChallenge.pdb
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\LowerToUpperChallenge\obj\Debug\netcoreapp3.0\LowerToUpperChallenge.csprojAssemblyReference.cache
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\Ipro\2. C# Challenge Qs\LowerToUpperChallenge\bin\Debug\netcoreapp3.0\LowerToUpperChallenge.exe
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\Ipro\2. C# Challenge Qs\LowerToUpperChallenge\bin\Debug\netcoreapp3.0\LowerToUpperChallenge.deps.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\Ipro\2. C# Challenge Qs\LowerToUpperChallenge\bin\Debug\netcoreapp3.0\LowerToUpperChallenge.runtimeconfig.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\Ipro\2. C# Challenge Qs\LowerToUpperChallenge\bin\Debug\netcoreapp3.0\LowerToUpperChallenge.runtimeconfig.dev.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\Ipro\2. C# Challenge Qs\LowerToUpperChallenge\bin\Debug\netcoreapp3.0\LowerToUpperChallenge.dll
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\Ipro\2. C# Challenge Qs\LowerToUpperChallenge\bin\Debug\netcoreapp3.0\LowerToUpperChallenge.pdb
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\Ipro\2. C# Challenge Qs\LowerToUpperChallenge\obj\Debug\netcoreapp3.0\LowerToUpperChallenge.csprojAssemblyReference.cache
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\Ipro\2. C# Challenge Qs\LowerToUpperChallenge\obj\Debug\netcoreapp3.0\LowerToUpperChallenge.AssemblyInfoInputs.cache
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\Ipro\2. C# Challenge Qs\LowerToUpperChallenge\obj\Debug\netcoreapp3.0\LowerToUpperChallenge.AssemblyInfo.cs
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\Ipro\2. C# Challenge Qs\LowerToUpperChallenge\obj\Debug\netcoreapp3.0\LowerToUpperChallenge.dll
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\Ipro\2. C# Challenge Qs\LowerToUpperChallenge\obj\Debug\netcoreapp3.0\LowerToUpperChallenge.pdb

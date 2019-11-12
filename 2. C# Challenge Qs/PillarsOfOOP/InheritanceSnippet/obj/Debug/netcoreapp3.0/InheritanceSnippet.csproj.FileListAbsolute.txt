@@ -1,0 +1,11 @@
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\InheritanceSnippet\bin\Debug\netcoreapp3.0\InheritanceSnippet.exe
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\InheritanceSnippet\bin\Debug\netcoreapp3.0\InheritanceSnippet.deps.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\InheritanceSnippet\bin\Debug\netcoreapp3.0\InheritanceSnippet.runtimeconfig.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\InheritanceSnippet\bin\Debug\netcoreapp3.0\InheritanceSnippet.runtimeconfig.dev.json
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\InheritanceSnippet\bin\Debug\netcoreapp3.0\InheritanceSnippet.dll
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\InheritanceSnippet\bin\Debug\netcoreapp3.0\InheritanceSnippet.pdb
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\InheritanceSnippet\obj\Debug\netcoreapp3.0\InheritanceSnippet.csprojAssemblyReference.cache
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\InheritanceSnippet\obj\Debug\netcoreapp3.0\InheritanceSnippet.AssemblyInfoInputs.cache
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\InheritanceSnippet\obj\Debug\netcoreapp3.0\InheritanceSnippet.AssemblyInfo.cs
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\InheritanceSnippet\obj\Debug\netcoreapp3.0\InheritanceSnippet.dll
+D:\up371.WEWARDS\OneDrive\OneDrive - Wewards\Desktop\InheritanceSnippet\obj\Debug\netcoreapp3.0\InheritanceSnippet.pdb
